@@ -1,4 +1,4 @@
-# Hi there �, I'm Aswanth
+# Hi there https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif, I'm Aswanth
 
 <!--
 **AswanthJabba/aswanthjabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
