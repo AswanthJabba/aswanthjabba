@@ -6,9 +6,13 @@
 <a href="mailto:jabbaaswanth@gmail.com">
   <img align="left" width="30px" src="https://github.com/AswanthJabba/aswanthjabba/blob/main/Assets/Gmail.png"  />
 </a>
-<br/>
+</br>
+
 ### About Me
-🎓 I'm currently pursuing my Masters Degree from NIT Warangal
+🎓 I'm currently pursuing my Masters Degree from NIT Warangal<br/>
+
+### My Experiences 
+‍💻 Data Analyst Intern at [HCL Software](https://www.hcltechsw.com/) - Creating Dashboard for DevTeam and Management Team for [HCL Compass](https://www.hcltechsw.com/compass)
 <!--
 **AswanthJabba/aswanthjabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
