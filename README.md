@@ -1,12 +1,13 @@
 # Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"/>, I'm Aswanth
 
 <a href="https://www.linkedin.com/in/aswanthjabba/">
-  <img align="left" width="24px" src="https://github.com/AswanthJabba/aswanthjabba/blob/main/Assets/Linkedin.png"  />
+  <img align="left" width="30px" src="https://github.com/AswanthJabba/aswanthjabba/blob/main/Assets/Linkedin.png"  />
 </a>
 <a href="mailto:jabbaaswanth@gmail.com">
-  <img align="left" width="24px" src="https://github.com/AswanthJabba/aswanthjabba/blob/main/Assets/Gmail.png"  />
+  <img align="left" width="30px" src="https://github.com/AswanthJabba/aswanthjabba/blob/main/Assets/Gmail.png"  />
 </a>
-
+### About Me
+🎓 I'm currently pursuing my Masters Degree from NIT Warangal
 <!--
 **AswanthJabba/aswanthjabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
