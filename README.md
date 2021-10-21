@@ -12,7 +12,7 @@
 🎓 I'm currently pursuing my Masters Degree and also working as teaching assitant at NIT Warangal<br/>
 
 ### My Experiences 
-‍💻 Data Analyst Intern at [HCL Software](https://www.hcltechsw.com/) - Creating Dashboard for DevTeam and Management Team for [HCL Compass](https://www.hcltechsw.com/compass)
+‍💻 Data Analyst Intern at [HCL Software](https://www.hcltechsw.com/) - Creating Dashboard for Development Team and Management Team for [HCL Compass](https://www.hcltechsw.com/compass)
 <!--
 **AswanthJabba/aswanthjabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
