@@ -15,7 +15,7 @@
 
 
 ### My Experiences 
-‍💻 Data Analyst Intern at [HCL Software](https://www.hcltechsw.com/) - Creating Dashboard for Development Team and Management Team for [HCL Compass](https://www.hcltechsw.com/compass), Technologies used Elasticsearch, Kibana.
+📈 Data Analyst Intern at [HCL Software](https://www.hcltechsw.com/) - Creating Dashboard for Development Team and Management Team for [HCL Compass](https://www.hcltechsw.com/compass), Technologies used Elasticsearch, Kibana.
 <!--
 **AswanthJabba/aswanthjabba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
