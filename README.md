@@ -9,8 +9,10 @@
 </br>
 
 ### About Me
-🎓 I'm currently pursuing my Masters Degree and also working as teaching assitant at NIT Warangal<br/>
+🎓 I'm currently pursuing my Masters Degree and also working as teaching assitant at NIT Warangal.<br/>
+🔭 I’m currently working on my Master's Project work on High performance Computing for Cotingency Analysis of Large Power Systems. <br/>
 📫 How to reach me [LinkedIn,](https://www.linkedin.com/in/aswanthjabba/) [Instagram,](https://www.instagram.com/ash_jacx/) [Gmail](mailto:jabbaaswanth@gmail.com).<br/>
+
 
 ### My Experiences 
 ‍💻 Data Analyst Intern at [HCL Software](https://www.hcltechsw.com/) - Creating Dashboard for Development Team and Management Team for [HCL Compass](https://www.hcltechsw.com/compass), Technologies used Elasticsearch, Kibana.
