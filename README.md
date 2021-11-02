@@ -10,7 +10,7 @@
 
 ### About Me
 🎓 I'm currently pursuing my Masters Degree and also working as teaching assitant at NIT Warangal.<br/>
-🔭 I’m currently working on my Master's Project work on High performance Computing for Contingency Analysis of Large Power Systems. <br/>
+🔭 I’m currently working on my Master's Project work on High performance Computing for Contingency Analysis of Power Systems. <br/>
 📫 How to reach me [LinkedIn,](https://www.linkedin.com/in/aswanthjabba/) [Instagram,](https://www.instagram.com/ash_jacx/) [Gmail](mailto:jabbaaswanth@gmail.com).<br/>
 
 
