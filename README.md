@@ -1,4 +1,4 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"/>, I'm Aswanth
+# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30" height="30"/>, I'm Aswanth Jabba
 
 <a href="https://www.linkedin.com/in/aswanthjabba/">
   <img align="left" width="30px" src="https://github.com/AswanthJabba/aswanthjabba/blob/main/Assets/Linkedin.png"  />
