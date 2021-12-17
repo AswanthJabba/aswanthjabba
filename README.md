@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## 📊 My Github Stats
+### 📊 My Github Stats
 
 <br/>
 <a href="https://github.com/aswanthjabba/github-readme-stats">
